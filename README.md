@@ -1,5 +1,5 @@
 # C++ Programacion-Universidad
-Este repositorio contiene una colección de ejercicios de la  universitarios en el lenguaje C++
+Este repositorio contiene una colección de ejercicios universitarios en el lenguaje C++
 
 ## Indice de temas
 - Repaso de variables
